@@ -1,7 +1,7 @@
 # R for Data Science
 
 This repo will help me to track my progress on the book R for Data Science by
-Hadley Wickham and Garrett Grolemund.
+Hadley Wickham and Garrett Grolemund (r4ds.had.co.nz/).
 
 ## Part I: Explore
 
